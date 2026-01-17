@@ -1,0 +1,6 @@
+match_id,team1,team2,team1_score,team2_score,venue,winner
+1,RCB,MI,165,170,Mumbai,MI
+2,CSK,GT,180,175,Chennai,CSK
+3,LSG,RCB,172,168,Lucknow,LSG
+4,MI,CSK,160,158,Mumbai,MI
+5,GT,LSG,182,176,Ahmedabad,GT
