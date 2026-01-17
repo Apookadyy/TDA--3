@@ -1,0 +1,17 @@
+Healthcare Data Analysis – Project Summary
+
+This project analyzes patient demographics, treatment outcomes, and hospital performance
+using Python and data visualization techniques.
+
+Key Findings:
+- Middle-aged patients represent the majority of hospital admissions
+- Medication-based treatments show the highest success rate
+- ICU departments have the highest bed occupancy and readmission rates
+- Patient satisfaction is inversely related to readmission rate
+
+Tools Used:
+Python, Pandas, Matplotlib, Jupyter Notebook
+
+Outcome:
+Delivered actionable insights to improve patient care quality,
+optimize hospital resources, and support data-driven healthcare decisions.

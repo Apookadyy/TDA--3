@@ -1,0 +1,7 @@
+Hospital_ID,Department,Bed_Occupancy_Rate,Average_Stay_Days,Readmission_Rate,Patient_Satisfaction_Score
+1,General,75,4.5,10,4.2
+1,ICU,90,8.2,18,3.8
+1,Cardiology,85,6.7,14,4.0
+2,General,70,4.0,9,4.4
+2,ICU,88,9.1,20,3.6
+2,Orthopedics,65,5.3,11,4.3
