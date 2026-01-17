@@ -1,0 +1,3 @@
+Project Summary
+
+The Financial Market Analysis project analyzes historical stock data to study stock price trends, evaluate portfolio performance, and assess investment risk. Using Python, Pandas, and Matplotlib, the project calculates returns, measures volatility, and visualizes market behavior. The analysis shows that diversified portfolios reduce risk while providing stable returns. This project demonstrates practical applications of data analysis techniques in financial decision-making and investment strategy development.
