@@ -1,0 +1,9 @@
+E-commerce Analytics Project Summary
+
+This project analyzes customer, product, and order data
+to extract meaningful business insights.
+
+Key Outcomes:
+- Customer segmentation
+- Purchase pattern analysis
+- Product recommendation insights
